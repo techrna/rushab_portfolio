@@ -1,5 +1,6 @@
 {
   "name": "rushab_portfolio",
+  "homepage": "https://rushab.online/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
