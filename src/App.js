@@ -1,7 +1,6 @@
 import "./App.css";
 import Lottie from "react-lottie";
 import animationData from "./dev_anima.json";
-import Grid from "@mui/material/Grid";
 import Typography from "@mui/material/Typography";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import { themeOptions } from "./theme/AppTheme";
